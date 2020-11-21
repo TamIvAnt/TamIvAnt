@@ -1,16 +1,14 @@
-### Hi there 👋
+My name is Ivan. I am Russian. 16 years old.
 
-<!--
-**TamIvAnt/TamIvAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love programming and everything related to it
 
-Here are some ideas to get you started:
+I am currently studying Python, Javascript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment my computer is:
+
+OS: Kubuntu 20.04.1 LTS x86_64
+CPU: Intel i5-1035G1 (8) @ 3.600GHz
+RAM: 8 GB
+GPU: Intel Device 8a56
+
+My Discord: TamIvAnt#9147
