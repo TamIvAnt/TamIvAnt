@@ -6,7 +6,7 @@ I am currently studying Python, Javascript, HTML, CSS
 
 At the moment my computer is:
 
-OS: Kubuntu 20.04.1 LTS x86_64
+OS: Windows 10 Pro 20H2
 
 CPU: Intel i5-1035G1 (8) @ 3.600GHz
 
