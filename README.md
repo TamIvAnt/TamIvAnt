@@ -2,11 +2,11 @@ My name is Ivan. I am Russian. 17 years old.
 
 I love programming and everything related to it
 
-I am currently studying Python, Javascript, HTML, CSS
+I am currently studying Python, Javascript, HTML, CSS, Kotlin
 
 At the moment my computer is:
 
-OS: Windows 10 Pro 20H2
+OS: Fedora Linux 35
 
 CPU: Intel i5-1035G1 (8) @ 3.600GHz
 
