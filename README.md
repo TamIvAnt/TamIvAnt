@@ -6,7 +6,7 @@ I am currently studying Python, Javascript, HTML, CSS, Kotlin
 
 At the moment my computer is:
 
-OS: Fedora Linux 35
+OS: Windows 10 20h2
 
 CPU: Intel i5-1035G1 (8) @ 3.600GHz
 
