@@ -6,12 +6,12 @@ I am currently studying Python, Javascript, HTML, CSS, Kotlin
 
 At the moment my computer is:
 
-OS: Windows 10 20h2
+OS: Windows 11
 
-CPU: Intel i5-1035G1 (8) @ 3.600GHz
+CPU: Intel i5-12500h
 
-RAM: 8 GB
+RAM: 16 GB
 
-GPU: Intel Device 8a56
+GPU: Nvidia RTX 3060 Mobile
 
 My Discord: TamIvAnt#9147
