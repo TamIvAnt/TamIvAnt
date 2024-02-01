@@ -1,8 +1,8 @@
-My name is Ivan. I am Russian. 18 years old.
+My name is Ivan. I am Russian. 19 years old.
 
 I love programming and everything related to it
 
-I am currently studying Python, Javascript, HTML, CSS, Kotlin
+I am currently studying Javascript, HTML, CSS. VueJS, NodeJS
 
 At the moment my computer is:
 
